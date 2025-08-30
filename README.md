@@ -4,7 +4,7 @@
 
 📍 Nagpur, India  
 📧 [amanpreetsinghossan@gmail.com](mailto:amanpreetsinghossan@gmail.com)  
-🌐 [Portfolio](https://amanpreetsinghportfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/amanpreet-singh-ossan-2a4194333) • [GitHub](https://github.com/Kirito034)  
+🌐 [Portfolio](https://amanpreetsinghportfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/amanpreet-singh-ossan-2a4194333) 
 
 ---
 
