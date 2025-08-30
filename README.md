@@ -1,30 +1,25 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=Amanpreet%20Singh%20Ossan%20💻&width=800&height=200&color1=0d1117&color2=1E90FF" alt="banner" />
-</p>
+# 👋 Amanpreet Singh Ossan  
 
-<h2 align="center" style="color:#1E90FF;">Software Developer • Full-Stack Engineer • Security & AI Enthusiast</h2>
+**Software Developer • Full-Stack Engineer • Security & AI Enthusiast**  
 
-<p align="center">
-  <a href="mailto:amanpreetsinghossan@gmail.com" style="color:#1E90FF;">📧 Email</a> • 
-  <a href="https://amanpreetsinghportfolio.netlify.app/" style="color:#1E90FF;">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/amanpreet-singh-ossan-2a4194333" style="color:#1E90FF;">💼 LinkedIn</a> • 
-</p>
+📍 Nagpur, India  
+📧 [amanpreetsinghossan@gmail.com](mailto:amanpreetsinghossan@gmail.com)  
+🌐 [Portfolio](https://amanpreetsinghportfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/amanpreet-singh-ossan-2a4194333) • [GitHub](https://github.com/Kirito034)  
 
 ---
 
 ## 🧑‍💻 About Me
 I’m a **Software Developer** passionate about building **scalable platforms, REST APIs, and real-time applications**.  
-I thrive on solving complex problems, writing clean code, and shipping solutions that **impact at scale**.  
+I thrive on **clean code, security, and performance** while solving complex problems.  
 
-- 🎓 **B.Tech in CSE** (SB Jain Institute of Technology, 2025)  
-- 💼 **Graduate Engineer Trainee @ HCL**  
-- 🔬 Past: **Software Developer Intern @ Arithwise** | **Data Science Intern @ Clustor Computing**  
-- 🛡️ Current focus: **Building a Universal WAF** & exploring **AI-powered security**  
+- 🎓 Pursuing **B.Tech in CSE** (Graduating 2025)  
+- 💼 Currently: **Graduate Engineer Trainee @ HCL**  
+- 🔬 Previously: **Software Developer Intern @ Arithwise** | **Data Science Intern @ Clustor Computing**  
+- 🛡️ Focus Areas: **Web Security, Full-Stack Development, AI-powered Security**  
 
 ---
 
-## ⚡ Tech Arsenal
+## ⚡ Tech Stack
 ```text
 Languages   : Python, JavaScript, TypeScript, C
 Frameworks  : FastAPI, Flask, Express, React, MERN
